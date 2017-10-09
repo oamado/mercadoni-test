@@ -1,16 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Installation
 
-Things you may want to cover:
+- Clone the repository `git clone git@github.com:oamado/mercadoni-test.git`
+- Install [rbenv](https://github.com/rbenv/rbenv)
+- Install ruby 2.4 (with rbenv)
+- Install [ImageMagick](https://www.imagemagick.org/script/index.php)
 
-* Ruby version
+## Usage
 
-* System dependencies
-
-* Configuration
-
-* Deployment instructions
-
-* ...
+In the project path write in console `rails s`, open a browser and go to http://localhost:3000
